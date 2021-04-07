@@ -2,5 +2,5 @@ This is a merge test file
 1. master
 2. 
 3. 
-4. 
+4. merge3
 Each line leaves the trace of branches

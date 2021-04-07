@@ -1,6 +1,6 @@
 This is a merge test file
 1. master
 2. merge1
-3. 
+3. merge2
 4. 
 Each line leaves the trace of branches
